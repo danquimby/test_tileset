@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{70395758-E791-357F-4C71-AC872FD24BEE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterMove.cs">
+    <Files>
+      <File FileName="Assets/Editor/Tiles/IsometricRuleTile/IsometricRuleTileEditor.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/CharacterMove.cs" Line="32" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity.2D.Tilemap.Extras PreferredExecutionTarget="Unity.Editor" />
+</Properties>
